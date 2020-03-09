@@ -1,0 +1,39 @@
+<!-- --------------------- Clone Tuesday--------------------- -->
+<div class="tab-pane fade" id="v-pills-5" role="tabpanel" aria-labelledby="day-5-tab">
+	              	<div class="speaker-wrap ftco-animate d-flex">
+	              		<div class="img speaker-img" style="background-image: url(images/states/southInB.png);"></div>
+	              		<div class="text pl-md-5">
+	              			<!-- <span class="time">10:00AM - 11:00AM</span> -->
+	              			<h2><a href="#">South India</a></h2>
+	              			<p>Outfit of the day: #OOTD</p>
+	              			<!-- <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span class="position">Founder of Wordpress</span></h3> -->
+	              		</div>
+	              	</div>
+	              	<div class="speaker-wrap ftco-animate d-flex">
+	              		<div class="img speaker-img" style="background-image:  url(images/SouthMusic.png);"></div>
+	              		<div class="text pl-md-5">
+	              			<!-- <span class="time">11:00AM - 01:00PM</span> -->
+	              			<h2><a href="#">Hit songs of the South</a></h2>
+	              			<!-- <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p> -->
+	              			<!-- <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span class="position">Founder of Wordpress</span></h3> -->
+	              		</div>
+	              	</div>
+	                <div class="speaker-wrap ftco-animate d-flex">
+	              		<div class="img speaker-img" style="background-image:  url(images/tugOfWar.jpeg);"></div>
+	              		<div class="text pl-md-5">
+	              			<!-- <span class="time">03:00PM - 04:30PM</span> -->
+	              			<h2><a href="#">Game: Tug of war (FE)</a></h2>
+	              			<!-- <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p> -->
+	              			<!-- <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span class="position">Founder of Wordpress</span></h3> -->
+	              		</div>
+	              	</div>
+	              	<div class="speaker-wrap ftco-animate d-flex">
+	              		<div class="img speaker-img" style="background-image:  url(images/Meduwada.png);"></div>
+	              		<div class="text pl-md-5">
+	              			<!-- <span class="time">04:30PM</span> -->
+	              			<h2><a href="#">Food: Rasamvada/medu wada/ dosa/ filter coffee/ tea</a></h2>
+	              			<!-- <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p> -->
+	              			<!-- <h3 class="speaker-name">&mdash; <a href="#">Brett Morgan</a> <span class="position">Founder of Wordpress</span></h3> -->
+	              		</div>
+                    </div>
+</div>
